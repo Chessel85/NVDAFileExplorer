@@ -1,0 +1,6 @@
+I am an NVDA user.  I often want to copy the full path I am at in File Explorer to the clipboard.
+To do this I press alt+D, then control + C, then F6 3 times to get back to the main view.
+I'd like an NVDA addon that provides me a single shortcut combination to copy the current address to the clipboard.
+A second keystroke would copy the address to the clipboard and also append the file that is currently selected.  if no file is selected then just the address is copied. if more than one file is selected, then multiple lines are put to the clipboard.
+Firstly, does an addon already exist for this? or is there an alternative way to achieve my goal?
+Otherwise, plan an implementation for this feature. i already have an nvda scratch area working.
